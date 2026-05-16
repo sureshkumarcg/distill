@@ -1,5 +1,4 @@
-# Distill — Pure knowledge, every class
-# Origin: Cloned from nursnaaz/distill repo
+# Distill — Pure knowledge, for each and every class
 > An AI-powered classroom assessment tool by Inceptez.  
 > Paste a transcript → get a concept map + adaptive quiz + Dr. Priya's interview debrief.
 
@@ -618,4 +617,4 @@ Minimum 100 characters. There is no maximum, the map-reduce pipeline handles tra
 
 ## License
 
-MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez.
+MIT — for educational use as part of the GenAI-2026 curriculum by Inceptez
